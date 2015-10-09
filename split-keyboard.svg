@@ -25,9 +25,9 @@
      bordercolor="#666666"
      inkscape:pageopacity="1"
      inkscape:pageshadow="0"
-     inkscape:zoom="16"
-     inkscape:cx="427.52053"
-     inkscape:cy="10.865877"
+     inkscape:zoom="45.254834"
+     inkscape:cx="418.95642"
+     inkscape:cy="17.863931"
      inkscape:document-units="px"
      inkscape:current-layer="split-keyboard"
      showgrid="true"
@@ -40,9 +40,9 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:bbox-paths="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1062"
-     inkscape:window-x="2160"
+     inkscape:window-width="2160"
+     inkscape:window-height="1422"
+     inkscape:window-x="0"
      inkscape:window-y="18"
      inkscape:window-maximized="1" />
   <metadata
@@ -698,4 +698,18 @@
      y="1035.9421"
      x="684.48914"
      style="fill:#e5d8b2;stroke:#000000;stroke-width:0.93852299;enable-background:new" />
+  <rect
+     id="PGUP"
+     height="18"
+     width="18"
+     y="960.98022"
+     x="552.44678"
+     style="fill:#e5d8b2;stroke:#000000;stroke-width:0.99999994;enable-background:new" />
+  <rect
+     id="PGDN"
+     height="18"
+     width="18"
+     y="979.98022"
+     x="552.44678"
+     style="fill:#e5d8b2;stroke:#000000;stroke-width:0.99999994;enable-background:new" />
 </svg>

@@ -102,8 +102,8 @@
                     <key id='DELE' group='editing' scan_priority='3' label='Del' image=''/>
                     <!-- <key id='HOME' group='editing' scan_priority='3'/> -->
                     <!-- <key id='END'  group='editing' scan_priority='3'/> -->
-                    <!-- <key id='PGUP' group='editing' scan_priority='3'/> -->
-                    <!-- <key id='PGDN' group='editing' scan_priority='3'/> -->
+                    <key id='PGUP' group='editing' scan_priority='3'/>
+                    <key id='PGDN' group='editing' scan_priority='3'/>
 
                     <!-- function key row with click buttons visible -->
                     <!-- <box group='click' orientation='horizontal'> -->
